@@ -1,5 +1,5 @@
 # EX 1C Quick Sort
-## DATE:
+## DATE: 01.03.2025
 ## AIM:
  To Write a python program to implement quick sort on the given values and print the sorted list and pivot value of each iteration
 
@@ -14,8 +14,8 @@
 ```
 /*
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: Aashika
-Register Number: 212222040001
+Developed by: Ravivarman G S
+Register Number: 21222100044
 */
 ```
 ```
